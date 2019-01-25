@@ -1,11 +1,6 @@
 this is a new 2nd commit
 
 
-<<<<<<< Updated upstream
-asjdhdjsahkdhskaj
-=======
-asddsa
+3rd changes commit
 
 
-asddsa
->>>>>>> Stashed changes
