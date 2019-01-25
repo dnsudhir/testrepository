@@ -1,4 +1,11 @@
 this is a new 2nd commit
 
 
+<<<<<<< Updated upstream
 asjdhdjsahkdhskaj
+=======
+asddsa
+
+
+asddsa
+>>>>>>> Stashed changes
